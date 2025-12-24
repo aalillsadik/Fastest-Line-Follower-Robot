@@ -27,3 +27,41 @@ Added the angle to screw the Array with body
 
 
 
+**LFR Body With circuit**
+
+Here i have made the line follower robot body in such a way so no need of any other chassis or something just install all the components and its ready to go. And there is a place to install battery in the back with zip tie
+
+**3D View**
+
+<img width="3048" height="1851" alt="image" src="https://github.com/user-attachments/assets/f0a2d2c6-0f92-4095-84f9-e5d138db894d" />
+
+<img width="1114" height="1714" alt="image" src="https://github.com/user-attachments/assets/8e980f50-20ba-4445-b744-1fa4e4c33ad0" />
+
+<img width="3040" height="1830" alt="image" src="https://github.com/user-attachments/assets/8c8214de-bea4-4d06-b58f-8f7c011b498d" />
+
+<img width="1916" height="1352" alt="image" src="https://github.com/user-attachments/assets/dd3fe59d-1d75-4f0b-a71d-cfc1ff2c478d" />
+
+**PCB**
+
+<img width="2962" height="1800" alt="image" src="https://github.com/user-attachments/assets/2b7b6c3d-02cb-4af3-9fd4-b90c9b8b6c73" />
+
+<img width="3032" height="1856" alt="image" src="https://github.com/user-attachments/assets/a4ee734b-c4d9-4266-a6d5-0be9afb2d28f" />
+
+**Initial Schematic**
+
+<img width="1900" height="1348" alt="image" src="https://github.com/user-attachments/assets/d1d4a2b1-3e32-4587-addb-61a9ca509b8b" />
+
+<img width="3402" height="1854" alt="image" src="https://github.com/user-attachments/assets/7dbd8d3f-fc8c-4cbf-8817-fd1c37abea05" />
+
+How it looks in the PCB, Need More changes
+
+<img width="3420" height="1854" alt="image" src="https://github.com/user-attachments/assets/82b105db-36c1-496c-b28e-ce9c9acfba1f" />
+
+<img width="3044" height="1834" alt="image" src="https://github.com/user-attachments/assets/332adc34-9ae5-419b-8f23-38c64aeab46a" />
+
+
+
+
+
+
+
