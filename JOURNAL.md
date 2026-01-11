@@ -1,3 +1,11 @@
+**Demonstration**
+Here in the youtube video i have shown how you can attach the body with the LR Array and how you can install the battery and motors.
+
+https://youtu.be/5yKSXTkTJyw
+
+<img width="1698" height="1050" alt="image" src="https://github.com/user-attachments/assets/49f38335-469e-47c6-b938-dcfa0db87702" />
+
+
 **BOM And Repo**
 
 Here is the full Bill Of Material for my line follower robot. I have updated the Github repo as well as dev log.
