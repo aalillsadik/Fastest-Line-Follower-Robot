@@ -15,7 +15,7 @@ This is a PID Control line follower robot with full customization and settings.
 > PCB and then we will move to the coding part.
 
 
-Wanna Buld now ? **[Kindly folow the Journal to make this LFR by own](https://github.com/aalillsadik/Fastest-Line-Follower-Robot/blob/main/Journal.md)**
+Wanna Buld now ? **[Kindly folow the Journal to make this LFR by own](https://github.com/aalillsadik/Fastest-Line-Follower-Robot/blob/main/JOURNAL.md)**
 
 
 ![bot full image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODk0MDcsInB1ciI6ImJsb2JfaWQifX0=--c27565f2f05e53d14b2fe435aea4705952241465/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/bot%20full%20image.png)
