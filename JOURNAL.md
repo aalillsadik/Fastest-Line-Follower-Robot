@@ -163,5 +163,14 @@ Here i have update my gihub repo -> https://github.com/aalillsadik/Fastest-Line-
 Here in the readme i have shown its feature like what it can do, BOM and the [Journal](https://github.com/aalillsadik/Fastest-Line-Follower-Robot/blob/main/JOURNAL.md). There will be two thing that need to be print one is IR sensor part another is body. where is no need to have a 3d body or something this is a complete one by it self.
 
 ![Screenshot 2026-03-13 at 2.20.32 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIwMDkyLCJwdXIiOiJibG9iX2lkIn19--8e4d88b761096b21234a26fbf2f069fcb7e71222/Screenshot%202026-03-13%20at%202.20.32%E2%80%AFAM.png)
-  
+
+
+# 3/4/2026 - Source File Uploading
+
+Here i have updated all the pcb source files for both pcbs (Line follower Body and Line follower IR array) all the source files can be export from easy eda are uploaded [here](https://github.com/aalillsadik/Fastest-Line-Follower-Robot/tree/main/circuit/Source%20Files) 
+
+<img width="2000" height="1004" alt="image" src="https://github.com/user-attachments/assets/f9f72f74-6d85-4e93-ba97-e27ed38413e3" />
+<img width="2000" height="1181" alt="image" src="https://github.com/user-attachments/assets/e2f2b618-9a30-4edb-beef-678212f80f37" />
+
+
 
